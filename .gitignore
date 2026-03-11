@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# Embeddings (regenerated automatically)
+embeddings/embeddings_cache.json
+embeddings/resume.faiss
+embeddings/resume_chunks.json
+
+# Database (personal data — don't commit)
+database/applications.db
+database/scraped_jobs.json
+database/apply_log.json
+database/pipeline_log.json
+database/manual_review/
+
+# Generated resumes (personal)
+resume/tailored/
+
+# QLoRA datasets (large files)
+llm/qlora_dataset/*.jsonl
+llm/qlora_dataset/*.json
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Secrets (NEVER commit)
+.env
+*.env
+credentials.json
+cookies.json

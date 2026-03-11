@@ -1,0 +1,136 @@
+{
+    "name": "Mustakim Shaikh",
+    "email": "mustakim.shaikh.prof@gmail.com",
+    "phone": "+91 9359768168",
+    "location": "Chandigarh, India",
+    "linkedin": "https://linkedin.com/in/mustakim-sh",
+    "github": "https://github.com/MustakimShaikh01",
+    "portfolio": "https://mustakim-portfolio-jet.vercel.app",
+    "summary": "Applied AI engineer with experience building practical LLM-powered systems and backend services. Skilled in Retrieval-Augmented Generation (RAG), semantic search, and scalable AI APIs using Python. Passionate about developing reliable AI tools that help teams automate knowledge workflows and extract insights from large datasets.",
+    "skills": {
+        "AI & LLM Systems": [
+            "Large Language Models",
+            "Retrieval-Augmented Generation (RAG)",
+            "Prompt Engineering",
+            "AI Agents"
+        ],
+        "Frameworks": [
+            "LangChain",
+            "HuggingFace Transformers",
+            "Ollama",
+            "llama.cpp"
+        ],
+        "Backend Development": [
+            "Python",
+            "FastAPI",
+            "Flask",
+            "REST APIs"
+        ],
+        "Machine Learning / NLP": [
+            "Transformers",
+            "Semantic Search",
+            "Embeddings",
+            "NLP Pipelines"
+        ],
+        "Databases": [
+            "PostgreSQL",
+            "MongoDB",
+            "Redis",
+            "SQLite",
+            "Vector Databases"
+        ],
+        "Tools & Infrastructure": [
+            "Docker",
+            "Git",
+            "Linux",
+            "AWS (EC2, S3)",
+            "MLflow"
+        ]
+    },
+    "experience": [
+        {
+            "title": "AI & Machine Learning Engineer",
+            "company": "Vikash Tech Solution",
+            "location": "Remote",
+            "start": "Jun 2025",
+            "end": "Present",
+            "bullets": [
+                "Built an LLM-based document intelligence system processing over 5,000 documents monthly, reducing manual analysis time by approximately 50%.",
+                "Developed Retrieval-Augmented Generation pipelines to improve knowledge retrieval across internal datasets.",
+                "Designed FastAPI-based AI services handling 300+ daily LLM queries with average response latency under 400ms.",
+                "Implemented local LLM inference using Ollama and llama.cpp, reducing external API usage costs by around 30%."
+            ]
+        },
+        {
+            "title": "Software & Data Engineer",
+            "company": "Siddharth Carbon Chemicals Ltd",
+            "location": "Remote",
+            "start": "Apr 2024",
+            "end": "Jun 2025",
+            "bullets": [
+                "Built analytics pipelines processing over 30,000 production records daily to monitor manufacturing performance.",
+                "Automated reporting workflows that reduced manual reporting effort by approximately 40%.",
+                "Developed dashboards that improved operational visibility and supported data-driven decisions."
+            ]
+        },
+        {
+            "title": "Associate Software Engineer",
+            "company": "RhythmFlows Solutions Pvt. Ltd.",
+            "location": "Pune, India",
+            "start": "Aug 2022",
+            "end": "Mar 2024",
+            "bullets": [
+                "Developed backend APIs and automation modules for ERP and financial workflow systems.",
+                "Improved SQL query performance and reporting efficiency across internal applications.",
+                "Built internal tools to streamline data processing and reporting tasks."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "AI Knowledge Assistant",
+            "description": "Built a Retrieval-Augmented Generation system using LangChain and vector databases to enable semantic search across internal documentation and knowledge bases.",
+            "tech": [
+                "LangChain",
+                "RAG",
+                "Vector Databases",
+                "Python"
+            ]
+        },
+        {
+            "name": "Autonomous Research Agent",
+            "description": "Developed an AI agent that gathers information from multiple sources, summarizes key insights, and generates structured reports using LLM APIs.",
+            "tech": [
+                "AI Agents",
+                "LLMs",
+                "Python",
+                "FastAPI"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Applications (MCA)",
+            "institution": "KCE's Institute of Management & Research, Jalgaon",
+            "start": "2022",
+            "end": "2024",
+            "cgpa": "8.02 / 10"
+        }
+    ],
+    "chunks": [
+        "Applied AI engineer with experience building practical LLM-powered systems and backend services",
+        "Skilled in Retrieval-Augmented Generation (RAG), semantic search, and scalable AI APIs using Python",
+        "Built LLM-based document intelligence system processing over 5000 documents monthly reducing manual analysis by 50%",
+        "Developed RAG pipelines using LangChain and vector databases for knowledge retrieval",
+        "Designed FastAPI-based AI services handling 300+ daily LLM queries with response latency under 400ms",
+        "Implemented local LLM inference using Ollama and llama.cpp reducing API costs by 30%",
+        "Built analytics pipelines processing 30000 production records daily for manufacturing performance monitoring",
+        "Automated reporting workflows reducing manual reporting effort by 40%",
+        "Developed backend APIs and automation modules for ERP and financial workflow systems",
+        "Experience with HuggingFace Transformers, LangChain, Ollama, Docker, FastAPI, PostgreSQL, Redis, AWS",
+        "Master of Computer Applications from KCE Institute with CGPA 8.02 out of 10",
+        "Strong prompt engineering skills for reliable low-hallucination LLM outputs",
+        "Built AI agent that gathers information from multiple sources and generates structured reports",
+        "Experienced with vector databases, embeddings, semantic search, and NLP pipelines"
+    ]
+}
